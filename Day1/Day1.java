@@ -6,7 +6,7 @@ import java.io.*;
 
 public class Day1 {
     public static void part1() throws FileNotFoundException{
-        File file = new File("Day1\\input1.txt");
+        File file = new File("Day1\\input.txt");
         if(!file.isFile()){
             System.out.println("File not found");
             return;
