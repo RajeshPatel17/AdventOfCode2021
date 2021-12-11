@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Day2",
+            "request": "launch",
+            "mainClass": "Day2.Day2",
+            "projectName": "AdventOfCode2021_f42272ec"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
